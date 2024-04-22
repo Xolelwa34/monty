@@ -37,7 +37,7 @@ int main(int argc, char *argv[])
 	while (read_line > 0)
 	{
 		content = NULL;
-		read_line = (fgets(&content, &size, file);
+		read_line = (fgets(&content, &size, file));
 		bus.content = content;
 		counter++;
 
