@@ -5,6 +5,7 @@
  * @counter: not used
  * Return: thing to return
 */
+
 void f_pall(stack_t **head, unsigned int counter)
 {
 	stack_t *h;

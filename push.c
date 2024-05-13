@@ -6,6 +6,7 @@
  *
  * Return: nothing to return
 */
+
 void f_push(stack_t **head, unsigned int counter)
 {
 	int i, a = 0, flag = 0;
